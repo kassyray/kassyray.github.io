@@ -1,6 +1,6 @@
 # My Personal Website 
 
-This is the homepage for ![Kassy Raymond's Personal Website](https://kassyray.github.io/)
+This is the homepage for [Kassy Raymond's Personal Website](https://kassyray.github.io/)
 
 ## Table of Contents
 - [About](#about)
