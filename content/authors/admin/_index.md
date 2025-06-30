@@ -94,8 +94,19 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Associate (Contract Part-time)
+    company_name: College of Engineer and Physical Sciences - University of Guelph
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-01-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Research Associate (Contract Part-time)
+    company_name: St. Joseph's Healthcare Hamilton
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -105,7 +116,39 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  - position: Technical Manager
+    company_name: Global Burden of Animal Diseases 
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Graduate Teaching Assistant
+    company_name: College of Engineering and Physical Sciences, University of Guelph
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: 2024-04-28
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Data Analyst (Contract Part-time)
+    company_name: College of Engineering and Physical Sciences, University of Guelph
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-09-05
+    date_end: 2019-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
