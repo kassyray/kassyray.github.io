@@ -51,41 +51,43 @@ interests:
 education:
   - area: PhD Candidate Computational Sciences
     institution: University of Guelph
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-04-01
+    date_end: 2025-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      GPA: 4.0/4.0
+
+      This thesis develops a metadata-driven graph database framework that harmonizes livestock data classifications and vocabularies from intergovernmental and national sources, enhancing interoperability and enabling discovery of disparate data sources. Through a qualitative review of metadata, data, and data systems, this research establishes a bottom-up methodology for developing community-driven standards. 
   - area: MSc Bioinformatics
     institution: University of Guelph
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-09-01
+    date_end: 2019-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      This thesis developed an unsupervised machine-learning pipeline to analyze Electrodermal Activity (EDA) as a sympathetic-nervous-system stress marker. We applied DBSCAN and k-means clustering to time-series features extracted over multiple window lengths (3-120 seconds) from Biopac and Empatica E4 recordings. A novel visualization for cluster dynamics was created and demonstrated that analyzing Empatica E4 signals with longer window lengths are able to identify regions of stress at a comparable level to signals collected from Biopac.
+
+        button:
+    text: 'Read Thesis'
+    url: 'https://atrium.lib.uoguelph.ca/items/5827fd72-7326-482c-92f1-ddc52ff4069c'
   - area: BSc Biological Sciences 
     institution: University of Guelph
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Climate Change Biology (ENVS*3010)
+      - Use and Management of Environmental Data (ENVS*3340)
+      - Meterology and Environmental Instrumentation (ENVS*4210)
+      - Plants and Environmental Pollution (PBIO*4530)
+      - Epidemiology (POPM*3240)
+      - Epidemiology of Foodborne Disease (POPM*4040)
+      - Statistics I and II (STAT*2040 and STAT*2050)
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data Engineer (Casual/Contract)
+    company_name: Wellington-Dufferin-Guelph Public Health
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-04-28
     date_end: ''
     summary: |2-
       Responsibilities include:
