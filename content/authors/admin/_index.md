@@ -66,9 +66,9 @@ education:
 
       This thesis developed an unsupervised machine-learning pipeline to analyze Electrodermal Activity (EDA) as a sympathetic-nervous-system stress marker. We applied DBSCAN and k-means clustering to time-series features extracted over multiple window lengths (3-120 seconds) from Biopac and Empatica E4 recordings. A novel visualization for cluster dynamics was created and demonstrated that analyzing Empatica E4 signals with longer window lengths are able to identify regions of stress at a comparable level to signals collected from Biopac.
 
-        button:
-    text: 'Read Thesis'
-    url: 'https://atrium.lib.uoguelph.ca/items/5827fd72-7326-482c-92f1-ddc52ff4069c'
+    button:
+      text: 'Read Thesis'
+      url: 'https://atrium.lib.uoguelph.ca/items/5827fd72-7326-482c-92f1-ddc52ff4069c'
   - area: BSc Biological Sciences 
     institution: University of Guelph
     date_start: 2016-01-01
