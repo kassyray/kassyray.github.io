@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.3
           size: cover
           position: center
           parallax: false
@@ -35,10 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research explores how we can make animal health and production data more accessible, interoperable, and usable, particularly across international systems. My work focuses on operationalizing data governance principles to improve the quality, discoverability, and reusability of livestock data. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+        I am particularly interested in using graph databases to model the relationships between datasets, metadata, and vocabularies from open intergovernmental and national sources. By developing frameworks and digital infrastructure that supports metadata-driven search and classification, my goal is to enable more consistent, interoperable access to data within a fragmented global data landscape. I aim to align my work principles emphasizing responsible, ethical, and equitable data stewardship. 
+
+        TL;DR; I am passionate about creating stronger, interoperable, data systems that improve data quality for better estimates, contributing to our understanding of urgent global challenges such as climate change, antimicrobrial resistance, food security, and zoonotic disease.
+
         Please reach out to collaborate 😃
     design:
       columns: '1'

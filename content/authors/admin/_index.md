@@ -11,7 +11,7 @@ last_name: Raymond
 
 # Status emoji
 status:
-  icon: 🦄
+  icon: 🌄
 
 # Is this the primary user of the site?
 superuser: true
@@ -177,6 +177,8 @@ awards:
 
 ## About Me
 
-Kassy Raymond is a PhD Candidate in Computational Sciences at the University of Guelph. Her background spans biology, bioinformatics, machine learning, and data governance. She has held roles at the intersection of health and data, including as the former Technical Manager for the Global Burden of Animal Diseases Informatics theme and the first Data Engineer at Public Health.
+Kassy Raymond is a PhD Candidate in Computational Sciences at the University of Guelph. Her background spans biology, bioinformatics, machine learning, informatics, and data governance. She has held several roles at the intersection of One health and data, including as the former Technical Manager for the Global Burden of Animal Diseases Informatics theme and the first Data Engineer at Wellington-Dufferin-Guelph Public Health.
 
-Kassy has presented internationally, including at the UN FAO and launch of the Datasphere Initiative during a G7 ministerial meeting. Her work has been recognized with several prestigious awards including the NSERC CGS-D, OGS, and the Queen Elizabeth II Graduate Scholarship.
+Kassy shared her work at multiple international venues, most notably as an invited panelist in a special session on data interoperability at the United Nations Food and Agriculture Organization (UN FAO) in Rome. She also presented at the launch of the Datasphere Initiative during a G7 ministerial meeting and was selected as a Fellow of the Datasphere Initiative.
+
+Her work has been recognized with prestigious awards including the NSERC CGS-D, OGS, and the Queen Elizabeth II Graduate Scholarship.
