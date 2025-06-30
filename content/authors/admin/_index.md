@@ -144,31 +144,43 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: SoCS Summer Doctoral Scholarship (valued at $2500)
+    url: ''
+    date: '2024-05-01'
+    awarder: University of Guelph
+    icon: building-columns
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      "The Summer Doctoral Scholarship is payable for $2,500 for the Summer 2024 semester, and is awarded based on the demonstrated academic excellence and research potential of our PhD students within the School of Computer Science."
+  - title: NSERC CGS-D (valued at $120,000)
+    url: https://www.uoguelph.ca/computing/news/computer-science-phd-awarded-nserc
+    date: '2022-05-01'
+    awarder: Natural Sciences and Engineering Research Council of Canada
+    icon: award
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      "The Canada Graduate Scholarships — Doctoral (CGS D) program is a federal program of scholarships administered by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Canadian Institutes of Health Research (CIHR) and the Social Sciences and Humanities Research Council (SSHRC). Scholarships are awarded through national competitions by these three granting agencies.
+
+      The CGS D program supports and promotes research excellence in a wide variety of disciplines and broad fields of natural sciences and engineering, health and social sciences and humanities, including interdisciplinary and multidisciplinary research. This support allows scholars to concentrate on their doctoral studies more fully, to seek out the best research mentors in their chosen fields and to contribute to the Canadian research ecosystem during and beyond the tenure of their awards." 
+  - title: Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) (valued at $15,000)
+    url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html
+    date: '2022-05-01'
+    awarder: The Ontario government, in partnership with the University of Guelph
+    icon: award
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      "The Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) is designed to encourage excellence in graduate studies in science and technology. The program is jointly supported by funds provided by the Ministry of Training, Colleges and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
+  - title: Ontario Graduate Scholarship (OGS) (valued at $15,000)
+    url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html
+    date: '2021-04-01'
+    awarder: The Ontario government, in partnership with the University of Guelph
+    icon: award
+    summary: |
+      "The Ontario Graduate Scholarship (OGS) Program recognizes academic excellence in graduate studies at the master's and doctoral levels in all disciplines of academic study. The program is jointly supported by funds provided by the Ministry of Training, College and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
+  - title: Ontario Graduate Scholarship (OGS) (valued at $15,000)
+    url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html
+    date: '2020-04-01'
+    awarder: The Ontario government, in partnership with the University of Guelph
+    icon: award
+    summary: | 
+      "The Ontario Graduate Scholarship (OGS) Program recognizes academic excellence in graduate studies at the master's and doctoral levels in all disciplines of academic study. The program is jointly supported by funds provided by the Ministry of Training, College and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
 ---
 
 ## About Me
