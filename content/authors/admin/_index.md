@@ -177,12 +177,6 @@ awards:
 
 ## About Me
 
-Kassy Raymond is a PhD Candidate in Computational Sciences at the University of Guelph, supervised by Dr. Deborah Stacey and Dr. Andrew Hamilton-Wright in the School of Computer Science.
+Kassy Raymond is a PhD Candidate in Computational Sciences at the University of Guelph. Her background spans biology, bioinformatics, machine learning, and data governance. She has held roles at the intersection of health and data, including as the former Technical Manager for the Global Burden of Animal Diseases Informatics theme and the first Data Engineer at Public Health.
 
-Her research focuses on applying data governance principles to improve the quality, discoverability, and reusability of animal health and production data disseminated by intergovernmental and governmental sources. She is especially interested in using graph databases to strengthen data infrastructure and enable interoperability across open data sources.
-
-Kassy’s work is informed by an interdisciplinary background spanning biology, bioinformatics, machine learning, data science, and data governance. She previously served as Technical Manager for the GBADs Informatics theme and has presented internationally at five venues, including a special session on interoperability at the UN FAO in Rome and the launch of the Datasphere Initiative during a G7 multistakeholder meeting. She is a former Datasphere Fellow and the first-ever Data Engineer to work at Public Health in Ontario.
-
-Her research has been recognized through several prestigious awards, including the NSERC Canada Graduate Scholarship – Doctoral (CGS-D), the Ontario Graduate Scholarship, the Queen Elizabeth II Graduate Scholarship in Science and Technology, and the SoCS Summer Doctoral Award.
-
-She holds an MSc in Bioinformatics and a BSc in Biological Sciences, both from the University of Guelph.
+Kassy has presented internationally, including at the UN FAO and launch of the Datasphere Initiative during a G7 ministerial meeting. Her work has been recognized with several prestigious awards including the NSERC CGS-D, OGS, and the Queen Elizabeth II Graduate Scholarship.
