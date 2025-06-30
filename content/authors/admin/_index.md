@@ -66,9 +66,9 @@ education:
 
       This thesis developed an unsupervised machine-learning pipeline to analyze Electrodermal Activity (EDA) as a sympathetic-nervous-system stress marker. We applied DBSCAN and k-means clustering to time-series features extracted over multiple window lengths (3-120 seconds) from Biopac and Empatica E4 recordings. A novel visualization for cluster dynamics was created and demonstrated that analyzing Empatica E4 signals with longer window lengths are able to identify regions of stress at a comparable level to signals collected from Biopac.
 
-      button:
-        text: 'Read Thesis'
-        url: 'https://atrium.lib.uoguelph.ca/items/5827fd72-7326-482c-92f1-ddc52ff4069c'
+    button:
+      text: 'Read Thesis'
+      url: 'https://atrium.lib.uoguelph.ca/items/5827fd72-7326-482c-92f1-ddc52ff4069c'
   - area: BSc Biological Sciences 
     institution: University of Guelph
     date_start: 2016-01-01
@@ -201,7 +201,6 @@ awards:
     url: https://www.uoguelph.ca/computing/news/computer-science-phd-awarded-nserc
     date: '2022-05-01'
     awarder: Natural Sciences and Engineering Research Council of Canada
-    icon: award
     summary: |
       "The Canada Graduate Scholarships — Doctoral (CGS D) program is a federal program of scholarships administered by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Canadian Institutes of Health Research (CIHR) and the Social Sciences and Humanities Research Council (SSHRC). Scholarships are awarded through national competitions by these three granting agencies.
 
@@ -210,21 +209,18 @@ awards:
     url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html
     date: '2022-05-01'
     awarder: The Ontario government, in partnership with the University of Guelph
-    icon: award
     summary: |
       "The Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) is designed to encourage excellence in graduate studies in science and technology. The program is jointly supported by funds provided by the Ministry of Training, Colleges and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
   - title: Ontario Graduate Scholarship (OGS) (valued at $15,000)
     url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html
     date: '2021-04-01'
     awarder: The Ontario government, in partnership with the University of Guelph
-    icon: award
     summary: |
       "The Ontario Graduate Scholarship (OGS) Program recognizes academic excellence in graduate studies at the master's and doctoral levels in all disciplines of academic study. The program is jointly supported by funds provided by the Ministry of Training, College and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
   - title: Ontario Graduate Scholarship (OGS) (valued at $15,000)
     url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html
     date: '2020-04-01'
     awarder: The Ontario government, in partnership with the University of Guelph
-    icon: award
     summary: | 
       "The Ontario Graduate Scholarship (OGS) Program recognizes academic excellence in graduate studies at the master's and doctoral levels in all disciplines of academic study. The program is jointly supported by funds provided by the Ministry of Training, College and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
 ---
