@@ -24,8 +24,14 @@ role: Data Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Guelph
+    url: https://www.uoguelph.ca/
+  - name: Wellington-Dufferin-Guelph Public Health
+    url: https://wdgpublichealth.ca/
+  - name: Global Burden of Animal Diseases
+    url: https://animalhealthmetrics.org/
+  - name: Datasphere Initiative
+    url: https://www.thedatasphere.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,7 +53,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Computational Sciences
+  - area: PhD Candidate Computational Sciences
     institution: University of Guelph
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -56,8 +62,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Bioinformatics
+    institution: University of Guelph
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -67,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Biological Sciences 
+    institution: University of Guelph
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -123,26 +129,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Climbing
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Biking
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: bike
+      - name: Cats
         description: ''
         percent: 80
-        icon: camera
+        icon: cat
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
