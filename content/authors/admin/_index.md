@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Engineer
+role: Data Engineer | PhD(c)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,10 +28,6 @@ organizations:
     url: https://www.uoguelph.ca/
   - name: Wellington-Dufferin-Guelph Public Health
     url: https://wdgpublichealth.ca/
-  - name: Global Burden of Animal Diseases
-    url: https://animalhealthmetrics.org/
-  - name: Datasphere Initiative
-    url: https://www.thedatasphere.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
