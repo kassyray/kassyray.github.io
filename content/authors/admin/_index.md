@@ -199,7 +199,7 @@ awards:
   - title: SoCS Summer Doctoral Scholarship (valued at $2500)
     url: ''
     date: '2024-05-01'
-    awarder: University of Guelph d
+    awarder: University of Guelph 
     summary: |
       "The Summer Doctoral Scholarship is payable for $2,500 for the Summer 2024 semester, and is awarded based on the demonstrated academic excellence and research potential of our PhD students within the School of Computer Science."
   - title: NSERC CGS-D (valued at $120,000)
