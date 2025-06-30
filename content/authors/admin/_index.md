@@ -89,7 +89,7 @@ work:
     company_logo: ''
     date_start: 2025-04-28
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Co-designed and maintained automated data pipelines for ISPA and CCEYA immunization reporting using Python, YAML, and Typst.
       - Developed a modular end-to-end reporting pipeline in Kubeflow using Bash, GitHub Actions, and Docker to ensure reproducibility and efficiency.
@@ -99,7 +99,6 @@ work:
       - Participated in Privacy Impact Assessments for new data infrastructure and transformation initiatives.
       -  Contributed new custom container images to Kubeflow to support secure and scalable workflow orchestration within the agency. These extensions of base images were used as examples for subsequent custom images.
       - Participated in meetings with public health nurses to understand data quality needs for ISPA reporting, translating comments and needs into an actionable plan to improve data quality.
-
   - position: Research Associate (Contract Part-time)
     company_name: College of Engineer and Physical Sciences - University of Guelph
     company_url: ''
