@@ -66,9 +66,9 @@ education:
 
       This thesis developed an unsupervised machine-learning pipeline to analyze Electrodermal Activity (EDA) as a sympathetic-nervous-system stress marker. We applied DBSCAN and k-means clustering to time-series features extracted over multiple window lengths (3-120 seconds) from Biopac and Empatica E4 recordings. A novel visualization for cluster dynamics was created and demonstrated that analyzing Empatica E4 signals with longer window lengths are able to identify regions of stress at a comparable level to signals collected from Biopac.
 
-    button:
-      text: 'Read Thesis'
-      url: 'https://atrium.lib.uoguelph.ca/items/5827fd72-7326-482c-92f1-ddc52ff4069c'
+      button:
+        text: 'Read Thesis'
+        url: 'https://atrium.lib.uoguelph.ca/items/5827fd72-7326-482c-92f1-ddc52ff4069c'
   - area: BSc Biological Sciences 
     institution: University of Guelph
     date_start: 2016-01-01
@@ -134,10 +134,12 @@ work:
     date_start: 2020-01-01
     date_end: 2024-04-28
     summary: |
+      Held GTA positions to support teaching of Software Design II (CIS\*2250), Systems Programming (CIS\*3010), and Cloud Computing (CIS\*4010).
+
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed and maintained course materials, lab assignments, code examples, and automating test scripts. 
+      - Provided student support through office hours, online forum moderation, detailed feedback on programming assignments, and exams.
+      - Ran lab sessions and tutorials to guide hands-on exercises in software design. 
   - position: Data Analyst (Contract Part-time)
     company_name: College of Engineering and Physical Sciences, University of Guelph
     company_url: ''
