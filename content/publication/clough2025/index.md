@@ -12,6 +12,7 @@ authors:
   - Deborah Stacey
   - Joao Sucena Afonso
   - William Gilbert
+  - Kassy Raymond
   - et al.
 
 date: '2025-01-01T00:00:00Z'
