@@ -19,7 +19,7 @@ publication_short: Rev Sci Tech
 abstract: ''
 summary: ''
 tags: []
-featured: false
+featured: true
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -35,4 +35,3 @@ image:
 projects: []
 slides: ''
 ---
-Add the publication's **full text** or **supplementary notes** here.

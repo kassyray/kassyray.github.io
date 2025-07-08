@@ -39,4 +39,3 @@ image:
 projects: []
 slides: ''
 ---
-Add the publication's **full text** or **supplementary notes** here.
