@@ -224,6 +224,45 @@ work:
       - Developed a remote monitoring system allowing students to view plant growth images.
       - Authored laboratory protocols and tutorials included in the undergraduate lab manual.
 
+awards:
+  - title: SoCS Summer Doctoral Scholarship (valued at $2500)
+    url: ''
+    date: '2024-05-01'
+    awarder: University of Guelph 
+    summary: |
+      "The Summer Doctoral Scholarship is payable for $2,500 for the Summer 2024 semester, and is awarded based on the demonstrated academic excellence and research potential of our PhD students within the School of Computer Science."
+
+
+  - title: NSERC CGS-D (valued at $120,000)
+    url: https://www.uoguelph.ca/computing/news/computer-science-phd-awarded-nserc
+    date: '2022-05-01'
+    awarder: Natural Sciences and Engineering Research Council of Canada
+    summary: |
+      "The Canada Graduate Scholarships — Doctoral (CGS D) program is a federal program of scholarships administered by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Canadian Institutes of Health Research (CIHR) and the Social Sciences and Humanities Research Council (SSHRC). Scholarships are awarded through national competitions by these three granting agencies.
+
+      The CGS D program supports and promotes research excellence in a wide variety of disciplines and broad fields of natural sciences and engineering, health and social sciences and humanities, including interdisciplinary and multidisciplinary research. This support allows scholars to concentrate on their doctoral studies more fully, to seek out the best research mentors in their chosen fields and to contribute to the Canadian research ecosystem during and beyond the tenure of their awards." 
+
+  - title: Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) (valued at $15,000)
+    url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html
+    date: '2022-05-01'
+    awarder: The Ontario government, in partnership with the University of Guelph
+    summary: |
+      "The Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) is designed to encourage excellence in graduate studies in science and technology. The program is jointly supported by funds provided by the Ministry of Training, Colleges and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
+
+  - title: Ontario Graduate Scholarship (OGS) (valued at $15,000)
+    url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html
+    date: '2021-04-01'
+    awarder: The Ontario government, in partnership with the University of Guelph
+    summary: |
+      "The Ontario Graduate Scholarship (OGS) Program recognizes academic excellence in graduate studies at the master's and doctoral levels in all disciplines of academic study. The program is jointly supported by funds provided by the Ministry of Training, College and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
+
+  - title: Ontario Graduate Scholarship (OGS) (valued at $15,000)
+    url: https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html
+    date: '2020-04-01'
+    awarder: The Ontario government, in partnership with the University of Guelph
+    summary: | 
+      "The Ontario Graduate Scholarship (OGS) Program recognizes academic excellence in graduate studies at the master's and doctoral levels in all disciplines of academic study. The program is jointly supported by funds provided by the Ministry of Training, College and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
+
 --- 
 
 ## About Me
