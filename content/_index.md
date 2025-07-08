@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Download Resume
+        url: uploads/20250706_KRaymond_Resume.pdf
     design:
       css_class: dark
       background:
@@ -39,7 +39,7 @@ sections:
 
         I am particularly interested in using graph databases to model the relationships between datasets, metadata, and vocabularies from open intergovernmental and national sources. By developing frameworks and digital infrastructure that supports metadata-driven search and classification, my goal is to enable more consistent, interoperable access to data within a fragmented global data landscape. I aim to align my work principles emphasizing responsible, ethical, and equitable data stewardship. 
 
-        TL;DR I am passionate about creating stronger, interoperable, data systems that improve data quality for better estimates, contributing to our understanding of urgent global challenges such as climate change, antimicrobrial resistance, food security, and zoonotic disease.
+        *TL;DR* I am passionate about creating stronger, interoperable, data systems that improve data quality for better estimates, contributing to our understanding of urgent global challenges such as climate change, antimicrobrial resistance, food security, and zoonotic disease.
 
         Please reach out to collaborate 😃
     design:
