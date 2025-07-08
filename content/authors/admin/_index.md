@@ -223,7 +223,6 @@ work:
       - Configured Raspberry Pi computers for automated time-lapse photography in a controlled growth chamber.
       - Developed a remote monitoring system allowing students to view plant growth images.
       - Authored laboratory protocols and tutorials included in the undergraduate lab manual.
-
 awards:
   - title: SoCS Summer Doctoral Scholarship (valued at $2500)
     url: ''
@@ -262,7 +261,6 @@ awards:
     awarder: The Ontario government, in partnership with the University of Guelph
     summary: | 
       "The Ontario Graduate Scholarship (OGS) Program recognizes academic excellence in graduate studies at the master's and doctoral levels in all disciplines of academic study. The program is jointly supported by funds provided by the Ministry of Training, College and Universities ('ministry') and funds provided by the University of Guelph.  The ministry contributes two-thirds of the value of the award and the university provides one-third."
-
 --- 
 
 ## About Me
