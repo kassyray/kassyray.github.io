@@ -99,6 +99,7 @@ work:
       - Participated in Privacy Impact Assessments for new data infrastructure and transformation initiatives.
       -  Contributed new custom container images to Kubeflow to support secure and scalable workflow orchestration within the agency. These extensions of base images were used as examples for subsequent custom images.
       - Participated in meetings with public health nurses to understand data quality needs for ISPA reporting, translating comments and needs into an actionable plan to improve data quality.
+      
   - position: Data Engineer
     company_name: Food for Thought Dynamic Dashboard Project
     date_start: 2025-01-01
@@ -203,7 +204,6 @@ work:
     summary: |
       - Provided on-call and scheduled exam proctoring services for students registered with Student Accessibility Services.
       - Ensured academic integrity and provided accommodations in compliance with university accessibility policies.
-
 
   - position: Private Statistics Tutor
     company_name: Self-Employed
