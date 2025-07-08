@@ -224,9 +224,12 @@ work:
       - Developed a remote monitoring system allowing students to view plant growth images.
       - Authored laboratory protocols and tutorials included in the undergraduate lab manual.
 
+--- 
+
 ## About Me
 
 Kassy Raymond is a PhD candidate in Computational Sciences at the University of Guelph with a background in biology, bioinformatics, machine learning, informatics, and data governance. She has worked at the intersection of One Health and data, serving as the Technical Manager for the Global Burden of Animal Diseases (GBADs) Informatics theme and as the first Data Engineer at Wellington-Dufferin-Guelph Public Health.
 
 Kassy has presented internationally, including as an invited panelist at the United Nations FAO in Rome and at the launch of the Datasphere Initiative during a G7 Multistakeholder Meeting. She was also selected as a Fellow of the Datasphere Initiative. Her work has been recognized through awards such as the NSERC CGS-D, Ontario Graduate Scholarship (OGS), and the Queen Elizabeth II Graduate Scholarship.
+
 --- 
