@@ -99,7 +99,7 @@ work:
       - Participated in Privacy Impact Assessments for new data infrastructure and transformation initiatives.
       -  Contributed new custom container images to Kubeflow to support secure and scalable workflow orchestration within the agency. These extensions of base images were used as examples for subsequent custom images.
       - Participated in meetings with public health nurses to understand data quality needs for ISPA reporting, translating comments and needs into an actionable plan to improve data quality.
-      
+
   - position: Data Engineer
     company_name: Food for Thought Dynamic Dashboard Project
     date_start: 2025-01-01
@@ -171,13 +171,13 @@ work:
       - Supervised co-op developers and liaised with leadership at iris to ensure clear technical direction.
   
   - position: Research Assistant, Ethiopia Pilot Study
-  company_name: Global Burden of Animal Diseases (GBADs)
-  date_start: 2019-11-01
-  date_end: 2020-01-31
-  summary: |
-    - Conducted a comprehensive inventory of open poultry data in Ethiopia and assessed the quality and availability of public datasets.
-    - Identified and interviewed key data stakeholders and devised a search and classification methodology for metadata.
-    - Delivered findings via written reports and interactive, voice-annotated visualizations.
+    company_name: Global Burden of Animal Diseases (GBADs)
+    date_start: 2019-11-01
+    date_end: 2020-01-31
+    summary: |
+      - Conducted a comprehensive inventory of open poultry data in Ethiopia and assessed the quality and availability of public datasets.
+      - Identified and interviewed key data stakeholders and devised a search and classification methodology for metadata.
+      - Delivered findings via written reports and interactive, voice-annotated visualizations.
 
   - position: Graduate Teaching Assistant
     company_name: College of Engineering and Physical Sciences, University of Guelph
@@ -223,7 +223,6 @@ work:
       - Configured Raspberry Pi computers for automated time-lapse photography in a controlled growth chamber.
       - Developed a remote monitoring system allowing students to view plant growth images.
       - Authored laboratory protocols and tutorials included in the undergraduate lab manual.
-
 
 ## About Me
 
