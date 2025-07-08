@@ -9,7 +9,7 @@ date: '2020-01-01T00:00:00Z'
 doi: ''
 publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['paper-conference']
-publication: VISIGRAPP (3: IVAPP), 125--132
+publication: VISIGRAPP (IVAPP), 125--132
 publication_short: IVAPP
 abstract: ''
 summary: ''
