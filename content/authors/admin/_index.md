@@ -9,7 +9,7 @@ status:
   icon: "🌄"
 superuser: true
 highlight_name: true
-role: "Data Engineer | PhD(c)"
+role: "PhD Candidate"
 organizations:
   - name: "University of Guelph"
     url: "https://www.uoguelph.ca/"
@@ -253,6 +253,8 @@ awards:
 
 ## About Me
 
-Kassy Raymond is a PhD candidate in Computational Sciences at the University of Guelph with a background in biology, bioinformatics, machine learning, informatics, and data governance. She has worked at the intersection of One Health and data, serving as the Technical Manager for the Global Burden of Animal Diseases (GBADs) Informatics theme and as the first Data Engineer at Wellington-Dufferin-Guelph Public Health.
+Hi there! 
 
-Kassy has presented internationally, including as an invited speaker at a interoperability expert meeting at the United Nations FAO in Rome and at the launch of the Datasphere Initiative on the occasion of G7 Multistakeholder Meeting. She was also selected as a Fellow of the Datasphere Initiative. Her work has been recognized through awards such as the NSERC CGS-D, Ontario Graduate Scholarship (OGS), and the Queen Elizabeth II Graduate Scholarship.
+I’m a PhD researcher focused on improving the interoperability and accessibility of livestock and public health data. My work involves designing data pipelines, metadata frameworks, and graph-based systems to support more effective data discovery and integration. I’m also interested in exploring practical data governance solutions that identify and address the core issues creating friction, both in data pipelines and in the teams that use them.
+
+I prioritize intellectual honesty, clarity, and practicality in my work. I’m intentional about building systems that are not just technically robust, but usable in real-world settings. I’m particularly interested in sustainable approaches to data infrastructure that support long-term use, adaptability, and meaningful impact, while minimizing unnecessary complexity and stay grounded in explainable, transparent approaches. 
