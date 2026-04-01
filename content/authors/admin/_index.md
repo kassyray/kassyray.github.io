@@ -251,9 +251,7 @@ awards:
 
 ---
 
-## About Me
-
-Hi there! 
+## Hi there! 
 
 I’m a PhD researcher focused on improving the interoperability and accessibility of livestock and public health data. My work involves designing data pipelines, metadata frameworks, and graph-based systems to support more effective data discovery and integration. I’m also interested in exploring practical data governance solutions that identify and address the core issues creating friction, both in data pipelines and in the teams that use them.
 
