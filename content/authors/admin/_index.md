@@ -13,8 +13,8 @@ role: "PhD Candidate"
 organizations:
   - name: "University of Guelph"
     url: "https://www.uoguelph.ca/"
-  - name: "Wellington-Dufferin-Guelph Public Health"
-    url: "https://wdgpublichealth.ca/"
+  - name: "Global Burden of Animal Diseases"
+    url: "https://animalhealthmetrics.org/"
 profiles:
   - icon: "at-symbol"
     url: "mailto:ykassyraymond2@gmail.com"
